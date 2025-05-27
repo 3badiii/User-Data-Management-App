@@ -9,3 +9,9 @@ This is a simple desktop application built using Python, CustomTkinter, and open
 - Filter/search users
 - Track gender statistics
 - Login authentication
+
+
+##Login
+
+Username:admin
+Password:1234
